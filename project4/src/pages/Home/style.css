@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+}
+.whales{
+    list-style: none;
+    
+}
+li{
+    margin: auto;
+    max-width: 25%;
+    background-color: lightgreen;
+    color: orange;
+}
